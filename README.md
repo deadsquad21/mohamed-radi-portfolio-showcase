@@ -41,7 +41,7 @@ It does **not** publish private client source code. It documents selected system
 | KemetX Tours | Tourism platform | Live | Separate public showcase |
 | Crazy Adventures | Tourism platform | Pending verification | Publish only after URL/rights check |
 | Warner Tours | Tourism platform | Pending verification | Publish only after URL/rights check |
-| Cybersecurity Lab | Security engineering | Planned / publish next | Public authorized lab |
+| [Cybersecurity Lab](https://github.com/deadsquad21/cybersecurity-lab) | Security engineering | Live / Public | Public authorized lab |
 
 ## Showcase Rules
 
